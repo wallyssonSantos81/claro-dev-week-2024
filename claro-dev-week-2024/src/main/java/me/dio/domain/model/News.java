@@ -4,6 +4,6 @@ package me.dio.domain.model;
 import jakarta.persistence.Entity;
 
 @Entity(name = "tb_news")
-public class News {
+public class News extends Baseltem{
 
 }
